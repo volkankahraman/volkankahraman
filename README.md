@@ -1,9 +1,6 @@
 Hi 👋 My name is Volkan Kahraman
 ================================
 
-Software Engineer
------------------
-
 * 🌍  I'm based in Turkey
 * 🖥️  See my portfolio at [Repos](http://github.com/volkankahraman?tab=repositories)
 * ✉️  You can contact me at [contact@volkankahraman.dev](mailto:contact@volkankahraman.dev)
