@@ -4,9 +4,8 @@ Hi 👋 My name is Volkan Kahraman
 * 🌍  I'm based in Turkey
 * 🖥️  See my portfolio at [Repos](http://github.com/volkankahraman?tab=repositories)
 * ✉️  You can contact me at [contact@volkankahraman.dev](mailto:contact@volkankahraman.dev)
-* 🚀  I'm currently working at [Masterborn](http://www.masterborn.com)
-* 🧠  I'm learning Next.js
-* 🤝  I'm open to collaborating on intresting projects
+* 🧠  I'm learning Swift
+* 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
 
